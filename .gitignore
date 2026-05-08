@@ -23,3 +23,10 @@ go.work.sum
 
 # env file
 .env
+
+# Local TaimeDB runtime data
+data/
+
+# Optional local binaries
+taime
+taimedb
